@@ -1,0 +1,1 @@
+ALTER TABLE repo MODIFY COLUMN description LONGTEXT;
